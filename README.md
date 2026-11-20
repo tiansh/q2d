@@ -26,7 +26,7 @@ LWin 键和 Space 键组合时保持原意，其他时候请使用 RWin 代替�
 ## 其他 ##
 
 因为使用了键盘钩子，可能会被一些杀软误报，请加入到白名单或自行编译。<br />
-编译后需要手动用 Resource Hacker 替换 Suspend 时的图标。
+编译后需要手动用 Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) 替换 Suspend 时的图标。
 
 ## About ##
 
